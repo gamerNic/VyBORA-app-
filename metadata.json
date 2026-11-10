@@ -1,0 +1,6 @@
+{
+  "name": "SONORA - Reproductor Musical Premium",
+  "description": "Reproductor de audio AMOLED moderno para Android con ecualizador gráfico profesional, temas luminosos, control en segundo plano y proyecto nativo Kotlin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
